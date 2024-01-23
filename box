@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Document</title>
+  </head>
+  <h1>AAAAAAAAAAA</h1>
+  <body>
+    <div class="box">
+      <h4 class="callout__title">Fun fact</h4>
+      <p>
+        Did you know that both H5P and CSS are Norwegian inventions?
+      </p>
+      </style>
+    </div>
+  </body>
+</html>
+
+
+<div class="funfact-box">
+    <h4 class="callout__title">Fun fact</h4>
+    <p>
+      Did you know that both H5P and CSS are Norwegian inventions?
+    </p>
+  </div>
